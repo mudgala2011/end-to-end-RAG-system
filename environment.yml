@@ -1,0 +1,11 @@
+name: llm-demo-template
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - ruff
+  - pytest
+  - pip:
+    - python-dotenv
+    - -e .
