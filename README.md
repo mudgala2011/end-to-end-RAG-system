@@ -11,6 +11,8 @@ This project implements a resume search engine that uses:
 - Streamlit for an interactive web interface
 - Hybrid search combining vector similarity with text matching
 
+## Architecture 
+
 ## Dataset
 
 This project uses the [Resume Dataset from Kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset). 
