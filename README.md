@@ -12,7 +12,7 @@ This project implements a resume search engine that uses:
 - Hybrid search combining vector similarity with text matching
 
 ## Architecture 
-
+![System Diagram](RAG_Architecture.png "Resume Search Engine RAG Architecture")
 ## Dataset
 
 This project uses the [Resume Dataset from Kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset). 
